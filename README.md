@@ -1,4 +1,4 @@
-# Arxora — Streamlit Brand Kit
+# Arxora — TradeAI
 
 Минимальный каркас Streamlit-приложения в стиле Arxora (фиолетовый/чёрный, шрифт Manrope).
 
